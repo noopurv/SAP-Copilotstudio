@@ -7,13 +7,13 @@ To demonstrate how seamless and easy it is to utilize AI using Microsoft AI tool
 
 ## Scenario Overiew and steps
 
-### 1.Customer Inquiry and Complaint
+### 1. Customer Inquiry and Complaint
 A customer contacts a salesperson with a complaint about a delayed order.
 
-### 2.Order Investigation
+### 2. Order Investigation
 The salesperson uses a chatbot deployed on Microsoft Teams to investigate the customer's orders, leveraging AI to gain summarized insights from Outlook Emails and Teams’ messages, combined with direct data from the SAP system.
 
-### 3.Generated Report
+### 3. Generated Report
 After identifying the issue, the salesperson uses AI to generate a report summarizing the conversation and the cause of the delay, which is then sent to the customer via email through the chatbot interaction.
 
 ## Technologies in Play
@@ -23,8 +23,6 @@ This scenario showcases the integration of various Microsoft technologies, inclu
 - Microsoft Teams
 - Microsoft Power Platform
 
- ## Video Demonstration
-A video walkthrough of the scenario is provided to illustrate the steps and the seamless interaction between the different technologies.
 
 ## Repository Contents
 This repository contains Power Automate flows and a detailed PDF with steps on how to build out this scenario using these flows in Copilot Studio.
