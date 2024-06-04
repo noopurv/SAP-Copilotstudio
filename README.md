@@ -17,11 +17,16 @@ The salesperson uses a chatbot deployed on Microsoft Teams to investigate the cu
 After identifying the issue, the salesperson uses AI to generate a report summarizing the conversation and the cause of the delay, which is then sent to the customer via email through the chatbot interaction.
 
 ## Technologies in Play
+
+  ![Alt text](https://github.com/noopurv/SAP-Copilotstudio/blob/main/scenariotechincalflow.png)
+  
 This scenario showcases the integration of various Microsoft technologies, including:
 - Copilot Studio
 - Azure OpenAI
 - Microsoft Teams
 - Microsoft Power Platform
+
+
 
 
 ## Repository Contents
